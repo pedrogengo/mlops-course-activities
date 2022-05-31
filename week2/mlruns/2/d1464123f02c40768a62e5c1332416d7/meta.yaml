@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/d1464123f02c40768a62e5c1332416d7/artifacts
+end_time: 1653966532063
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: d1464123f02c40768a62e5c1332416d7
+run_uuid: d1464123f02c40768a62e5c1332416d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653966531387
+status: 3
+tags: []
+user_id: pedro
